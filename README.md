@@ -10,3 +10,5 @@ This is a simple bank system <br>
   * Those are the libraries which used to hanlde the database using sql
 * finally the main.cpp file
   * which has a simple example of how to use the system
+* **Author**
+  * **`Eslam Sayed Gouda`**
